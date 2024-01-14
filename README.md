@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter (Phuc)</h1>
+<h1 align="center">Hi 👋🏻, I'm Peter (Phuc)</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
 - ⚡ Contact me at **ntrongphuc.1302@gmail.com**
