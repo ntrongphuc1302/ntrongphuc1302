@@ -5,12 +5,8 @@
 
 - ⚡ Contact me at **ntrongphuc.1302@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntrongphuc1302&show_icons=true&theme=dark&locale=en&layout=compact" alt="ntrongphuc1302" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<br>
-<br>
-<br>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntrongphuc1302&show_icons=true&theme=dark&locale=en" alt="ntrongphuc1302" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntrongphuc1302&show_icons=true&theme=dark&locale=en&layout=compact" alt="ntrongphuc1302" /></p>
