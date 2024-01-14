@@ -5,4 +5,4 @@
 
 - ⚡ Contact me at **ntrongphuc.1302@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntrongphuc1302&show_icons=true&theme=dark&locale=en" alt="ntrongphuc1302" /></p>
+<center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ntrongphuc1302&show_icons=true&theme=dark&locale=en" alt="ntrongphuc1302" /></center>
