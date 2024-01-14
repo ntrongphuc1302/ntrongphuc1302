@@ -11,4 +11,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntrongphuc1302&show_icons=true&theme=dark&locale=en&layout=compact" alt="ntrongphuc1302" /></p>
 
-[![Spotify](https://novatorem-eta-sage.vercel.app/api/spotify)](https://open.spotify.com/user/31jpmhv2uprkciydh4shmpgslpfy)
+[![Spotify](https://novatorem-eta-sage.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jpmhv2uprkciydh4shmpgslpfy)
