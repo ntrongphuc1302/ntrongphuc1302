@@ -20,3 +20,7 @@
 <p align="center">
   [![Spotify](https://novatorem-eta-sage.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31jpmhv2uprkciydh4shmpgslpfy)
 </p>
+
+<p align="center">
+  <img src="[demo.gif](https://novatorem-eta-sage.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)https://novatorem-eta-sage.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify" />
+</p>
