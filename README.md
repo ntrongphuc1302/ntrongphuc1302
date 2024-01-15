@@ -12,10 +12,10 @@
 
 ---
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ntrongphuc1302&show_icons=true&theme=dark&locale=en" alt="ntrongphuc1302" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ntrongphuc1302&show_icons=true&theme=dark&cache_seconds=60&locale=en" alt="ntrongphuc1302" /></p>
 
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ntrongphuc1302&show_icons=true&theme=dark&locale=en&layout=compact" alt="ntrongphuc1302" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ntrongphuc1302&show_icons=true&theme=dark&cache_seconds=60&locale=en&layout=compact" alt="ntrongphuc1302" /></p>
 
 ---
