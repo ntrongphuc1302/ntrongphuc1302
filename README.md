@@ -1,4 +1,4 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=ntrongphuc1302&label=Visistors&color=ff0e0e&style=plastic" alt="ntrongphuc1302" /></p>
+<!-- <p align="right"><img src="https://komarev.com/ghpvc/?username=ntrongphuc1302&label=Visistors&color=ff0e0e&style=plastic" alt="ntrongphuc1302" /></p> -->
 
 <h1 align="center">Hello_world</h1>
 
