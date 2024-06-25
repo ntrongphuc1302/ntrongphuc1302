@@ -8,7 +8,7 @@
 
 <!-- --- -->
 
-<p align="center"><img src="https://novatorem-eta-sage.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="ntrongphuc1302" /></p>
+<!-- <p align="center"><img src="https://novatorem-eta-sage.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="ntrongphuc1302" /></p> -->
 
 <!-- --- -->
 
@@ -16,7 +16,7 @@
 
 <!-- --- -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ntrongphuc1302&show_icons=true&theme=dark&cache_seconds=60&locale=en&layout=compact" alt="ntrongphuc1302" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ntrongphuc1302&show_icons=true&theme=dark&cache_seconds=60&locale=en&layout=compact" alt="ntrongphuc1302" /></p> -->
 
 <!-- --- -->
 
