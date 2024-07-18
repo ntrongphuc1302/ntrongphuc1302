@@ -6,8 +6,6 @@
 
 - ⚡ Contact me at **ntrongphuc.1302@gmail.com**
 
-![ntrongphuc1302 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ntrongphuc1302)
-
 <!-- --- -->
 
 <!-- <p align="center"><img src="https://novatorem-eta-sage.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="ntrongphuc1302" /></p> -->
