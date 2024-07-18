@@ -6,7 +6,7 @@
 
 - ⚡ Contact me at **ntrongphuc.1302@gmail.com**
 
-![ntrongphuc1302 github-trophies](https://stats.dooboo.io/api/github-trophies?login=ntrongphuc1302)
+![ntrongphuc1302 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=ntrongphuc1302)
 
 <!-- --- -->
 
