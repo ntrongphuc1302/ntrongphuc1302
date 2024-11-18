@@ -22,26 +22,8 @@
   </a>
 </p>
 
-<!-- --- -->
-
 <p align="center"><img src="https://github.com/ntrongphuc1302/ntrongphuc1302/blob/output/github-contribution-grid-snake-dark.svg" /></p>
 
-<!-- --- -->
-
-<!-- <p align="center"><img src="https://novatorem-eta-sage.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="ntrongphuc1302" /></p> -->
-
-<!-- --- -->
-
-<!-- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ntrongphuc1302&show_icons=true&theme=dark&cache_seconds=60&locale=en" alt="ntrongphuc1302" /></p> -->
-
-<!-- --- -->
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ntrongphuc1302&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ntrongphuc1302&show_icons=true&theme=dark&cache_seconds=60&locale=en&layout=compact" alt="ntrongphuc1302" /></p> -->
-
-<!-- --- -->
-
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ntrongphuc1302&theme=dark" alt="ntrongphuc1302" /></p> -->
-
-<!-- --- -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntrongphuc1302&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+</p>
