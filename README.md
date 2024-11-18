@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://github.com/ntrongphuc1302">
-    <img src="https://img.shields.io/badge/Peter-8B0000?style=for-the-badge&logo=github" alt="Peter" />
+    <img src="https://img.shields.io/badge/Peter-8B0000?style=flat-square&logo=github&logoColor=white" alt="Peter" />
   </a>
   <a href="mailto:ntrongphuc.1302@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-DB4437?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://discord.com/users/358614972223193089">
-    <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://t.me/ntrongphuc1302">
-    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://steamcommunity.com/profiles/76561198349229941">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam" alt="Steam">
+    <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam">
   </a>
 </p>
 
