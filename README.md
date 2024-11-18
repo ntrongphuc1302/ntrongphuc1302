@@ -22,6 +22,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jpmhv2uprkciydh4shmpgslpfy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jpmhv2uprkciydh4shmpgslpfy&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile" />
+  </a>
+</p>
+
 <p align="center"><img src="https://github.com/ntrongphuc1302/ntrongphuc1302/blob/output/github-contribution-grid-snake-dark.svg" /></p>
 
 <p align="center">
