@@ -3,13 +3,13 @@
     <img src="https://img.shields.io/badge/Peter-8B0000?style=for-the-badge&logo=github" alt="Peter" />
   </a>
   <a href="mailto:ntrongphuc.1302@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://discord.com/users/358614972223193089">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord" alt="Discord">
   </a>
   <a href="https://t.me/ntrongphuc1302">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
   <a href="https://steamcommunity.com/profiles/76561198349229941">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam" alt="Steam">
