@@ -8,6 +8,10 @@
 
 <!-- --- -->
 
+<!-- <p align="center"><img src="https://github.com/ntrongphuc1302/ntrongphuc1302/blob/output/github-contribution-grid-snake-dark.svg" /></p> -->
+
+<!-- --- -->
+
 <!-- <p align="center"><img src="https://novatorem-eta-sage.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="ntrongphuc1302" /></p> -->
 
 <!-- --- -->
