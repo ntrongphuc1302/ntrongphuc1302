@@ -1,6 +1,6 @@
 <!-- <p align="right"><img src="https://komarev.com/ghpvc/?username=ntrongphuc1302&label=Visistors&color=ff0e0e&style=plastic" alt="ntrongphuc1302" /></p> -->
 
-<h1 align="center">Hello_world</h1>
+<h1 align="center">Hello, World!</h1>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=e6edf3&center=true&vCenter=true&random=false&width=435&lines=Hello+there!;I'm+Peter;a+passionate+developer" alt="Typing SVG" /></a></p>
 
