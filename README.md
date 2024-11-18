@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://steamcommunity.com/profiles/76561198349229941">
-    <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white" alt="Steam">
+    <img src="https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=steam&logoColor=white" alt="Steam">
   </a>
 </p>
 
