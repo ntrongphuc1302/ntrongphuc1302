@@ -28,8 +28,8 @@ jobs:
           const fs = require('fs');
           
           // GitHub API to fetch user repositories
-          const username = 'ntrongphuc1302';  // Replace with your GitHub username
-          const token = process.env.GITHUB_TOKEN;  // GitHub token for authentication
+          const username = 'ntrongphuc1302';  # Replace with your GitHub username
+          const token = process.env.GITHUB_TOKEN;  # GitHub token for authentication
           
           // GitHub API URL to fetch all repositories
           const url = `https://api.github.com/users/${username}/repos?sort=updated&per_page=100`;
@@ -63,7 +63,7 @@ jobs:
               repoCommitData.sort((a, b) => b.commits - a.commits);
 
               // Get the top 3 repositories (or more if desired)
-              const topRepos = repoCommitData.slice(0, 4); // Change to 3 or 4 based on needs
+              const topRepos = repoCommitData.slice(0, 4); # Change to 3 or 4 based on needs
 
               // Write the top repos data to a JSON file
               fs.writeFileSync('top-repos.json', JSON.stringify(topRepos, null, 2));
@@ -106,7 +106,7 @@ Here are the top repositories with the most commits:
 
           // Replace the old "Top Repositories" section with the updated one
           const updatedContent = readmeContent.replace(
-            /## Top Repositories by Commits[\s\S]*?##/g, // Match existing section
+            /## Top Repositories by Commits[\s\S]*?##/g, # Match existing section
             topRepoSection
           );
 
