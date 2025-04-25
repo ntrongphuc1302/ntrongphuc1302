@@ -16,9 +16,15 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=98FF98&center=true&vCenter=true&width=900&lines=Hello%2C+World!+🌎;Hi+there!+👋;Welcome+to+My+GitHub+Profile!;I'm+Peter,+a+Passionate+Developer+💻;I+Love+Turning+Ideas+Into+Code!;Let's+Collaborate+and+Build+Amazing+Things!+🚀" alt="Typing Animation" />
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=🌎+Hello%2C+World!;👋+Hi+there%2C+I'm+Peter+(a.k.a+PeteK1302);💻+Passionate+Developer+%7C+Tech+Lover;⚙️+Turning+Ideas+into+Clean%2C+Powerful+Code;🚀+Let's+Collaborate+and+Build+Something+Awesome!" alt="Typing Animation" />
   </a>
 </p>
 
