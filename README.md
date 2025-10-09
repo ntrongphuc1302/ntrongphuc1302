@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <a href="https://github.com/ntrongphuc1302">
     <img src="https://img.shields.io/badge/Peter-8B0000?style=flat-square&logo=github&logoColor=white" alt="Peter" />
@@ -16,22 +17,11 @@
   </a>
 </p>
 
-<!-- <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=98FF98&center=true&vCenter=true&width=900&lines=Hello%2C+World!+🌎;Hi+there!+👋;Welcome+to+My+GitHub+Profile!;I'm+Peter,+a+Passionate+Developer+💻;I+Love+Turning+Ideas+Into+Code!;Let's+Collaborate+and+Build+Amazing+Things!+🚀" alt="Typing Animation" />
-  </a>
-</p> -->
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=900&lines=🌎+Hello%2C+World!;👋+Hi+there%2C+I'm+Peter+(a.k.a+PeteK1302);💻+Passionate+Developer+%7C+Tech+Lover;⚙️+Turning+Ideas+into+Clean%2C+Powerful+Code;🚀+Let's+Collaborate+and+Build+Something+Awesome!" alt="Typing Animation" />
   </a>
 </p>
-
-<!-- - ⚡ Contact: **ntrongphuc.1302@gmail.com**
-<p align="center">
-  ⚡ <strong>Contact:</strong> ntrongphuc.1302@gmail.com
-</p> -->
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jpmhv2uprkciydh4shmpgslpfy&redirect=true">
@@ -44,3 +34,27 @@
 </p>
 
 <p align="center"><img src="https://github.com/ntrongphuc1302/ntrongphuc1302/blob/output/github-contribution-grid-snake-dark.svg" /></p>
+-->
+
+## 💫 About Me
+
+Hi, I’m **Nguyễn Trọng Phúc** — also known as **PeterKing / PX03** 👋  
+I’m a **software developer** passionate about building **modern**, **scalable**, and **creative** applications.
+
+---
+
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&size=20&color=36BCF7&lines=Nguyen+Trong+Phuc+(PeterKing+/+PX03);Software+Developer;ntrongphuc.io.vn>)](https://git.io/typing-svg)
+
+---
+
+### 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/🌍Portfolio-ntrongphuc.io.vn-36BCF7?style=for-the-badge)](https://ntrongphuc.io.vn)
+[![Email](https://img.shields.io/badge/✉️Email-ntrongphuc.1302%40gmail.com-36BCF7?style=for-the-badge)](mailto:ntrongphuc.1302@gmail.com)
+[![Stars](https://img.shields.io/github/stars/ntrongphuc1302?label=⭐Stars&style=for-the-badge&color=36BCF7)](https://github.com/ntrongphuc1302?tab=repositories)
+
+---
+
+<p align="center">
+  <img src="https://github.com/ntrongphuc1302/ntrongphuc1302/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
