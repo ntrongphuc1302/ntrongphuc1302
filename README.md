@@ -63,6 +63,8 @@ I’m a **software developer** passionate about building **modern**, **scalable*
 
 [![Portfolio](https://img.shields.io/badge/🌍Portfolio-ntrongphuc.io.vn-FF3B3B?style=for-the-badge)](https://ntrongphuc.io.vn)
 [![Email](https://img.shields.io/badge/✉️Email-ntrongphuc.1302%40gmail.com-FF3B3B?style=for-the-badge)](mailto:ntrongphuc.1302@gmail.com)
+[![Steam](https://img.shields.io/badge/🎮Steam-ntrongphuc1302-FF3B3B?style=for-the-badge)](https://steamcommunity.com/id/ntrongphuc1302/)
+[![Discord](https://img.shields.io/badge/💬Discord-@PX03-FF3B3B?style=for-the-badge)](https://discord.com/users/358614972223193089)
 
 <p align="center">
   <img src="https://github.com/ntrongphuc1302/ntrongphuc1302/blob/output/github-contribution-grid-snake-dark.svg" />
