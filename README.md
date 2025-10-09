@@ -56,7 +56,7 @@
 
 ## 💫 About Me
 
-Hi, I’m **Nguyen Trong Phuc** — but you can just call me **<abbr title="it’s pronounced “Fook” (/fuk/), my Vietnamese given name">Phuc</abbr>** — also known as **PX03 / PeterKing** 👋  
+Hi, I’m **Nguyen Trong Phuc** — but you can just call me **<abbr title="it’s pronounced “Fook” (/fuk/), my Vietnamese given name">Phuc</abbr>** (/fuk/) — also known as **PX03 / PeterKing** 👋  
 I’m a **software developer** passionate about building **modern**, **scalable**, and **creative** applications.
 
 ### 🌐 Connect With Me
