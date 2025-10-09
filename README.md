@@ -37,7 +37,7 @@ I’m a **software developer** passionate about building **modern**, **scalable*
   </a>
 </p>
 
-### 🐍 My Coding Journey
+### 🐍 My Coding Journey in Motion
 
 <p align="center">
   <img src="https://github.com/ntrongphuc1302/ntrongphuc1302/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
